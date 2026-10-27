@@ -3,7 +3,7 @@
 > Tier-B actor · `did:web:etzhayyim.com:niyaku` · ADR-2606082000 · **R0 scaffold**
 > Operator-side counterpart of **funadaiku** (船大工, builds the ships) · consumer of
 > **port** (terminal registry) + **watari** (live vessel position)
-> Canonical repository: `etzhayyim/actor-niyaku`
+> Canonical repository: `cloud-itonami/actor-niyaku`
 
 **Organism axis**: Axis 2 — Metabolism (代謝 / 産霊 musuhi): moves goods between hull
 and shore so the commons can circulate them.
