@@ -7,6 +7,6 @@
  :profile/id "actor-niyaku"
  :profile/default? true
  :bot/name "actor-niyaku"
- :bot/brief "etzhayyim/actor-niyaku の常駐 actor。charter に従って行動する。"
- :bot/context-refs [{:kind "repo" :target "etzhayyim/actor-niyaku"}]
+ :bot/brief "cloud-itonami/actor-niyaku の常駐 actor。charter に従って行動する。"
+ :bot/context-refs [{:kind "repo" :target "cloud-itonami/actor-niyaku"}]
  :bot/tools-requested []}
